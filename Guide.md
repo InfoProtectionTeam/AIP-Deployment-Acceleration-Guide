@@ -24,7 +24,7 @@ Azure Information Protection (AIP) is a cloud-based solution that can help organ
 The Azure Information Protection Get to Production (GTP) team is part of the Azure Security Engineering Division at Microsoft. Our team in comprised of subject matter experts who work closely with select customers (usually based on size and/or complexity) to help them realize the value of their investment by providing guidance for **successful** **and** **rapid deployments**. 
 
 This document is intended for Information Security, IT Security, and Compliance managers interested in understanding our recommendations for approaching an Information Protection project. While there will be some technical discussion throughout various sections of this document, we have found that the most challenging part of an AIP deployment is the business process and decisions that must be made. To that end, this document will focus less on how to technically implement AIP and more on a discussion of why you are doing each step. The technical details have documented in various locations, so we have provided
-links to these throughout the document and aggregated them in the [appendix](#appendix-additional-resources).
+links to these throughout the document and aggregated them in the [appendix](#appendix--additional-resources).
 
 To successfully implement AIP as a solution, we recommended following the phases of the Microsoft Information Protection Lifecycle as shown below:
 
@@ -42,7 +42,7 @@ In this document, we will review each of these phases and provide best practices
 
 Azure Information Protection (as described above) is one part of the larger [Microsoft Information Protection](https://www.microsoft.com/en-us/security/technology/information-protection) story.  With Microsoft Information Protection, Microsoft is streamlining how all applications that require information protection capabilities interact.  This provides a unified interface where both Microsoft and Partner applications can classify and protect sensitive information. Ultimately, this mean better integration across our information protection solutions and a more consistent approach to protecting your sensitive data.
 
-The image below shows technologies that currently interface with Microsoft Information Protection. Although we will not delve deeply into all these technologies in this document, we will provide resources in the [appendix](#appendix-additional-resources) that may be used for further exposition.  
+The image below shows technologies that currently interface with Microsoft Information Protection. Although we will not delve deeply into all these technologies in this document, we will provide resources in the [appendix](#appendix--additional-resources) that may be used for further exposition.  
 
 ![](assets/MIP.png)
 

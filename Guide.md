@@ -130,7 +130,6 @@ Some of the items that are commonly discussed at this meeting are:
 - Technical Support Requirements
 
 ---
-
 ## Discover
 
 Implementing an Information Protection solution should not be a one-time event, but rather a journey with many steps along the way.  That said, it is important to simplify this journey and address implementation and rollout using a phased approach.
@@ -189,7 +188,6 @@ Office 365 DLP is included in Office 365 E3 and E5 plans and provides the capabi
 For more information on Office 365 DLP policies, please see [Overview of O365 Data Loss Prevention policies.](https://docs.microsoft.com/en-us/office365/securitycompliance/data-loss-prevention-policies)
 
 ---
-
 ## Classify & Label
 
 Once discovery has been performed on sensitive data, the next logical step is to Classify and Label this data.  Ideally, classification and labeling will be done concurrently with discovery.  However, this requires that you have a classification taxonomy defined and rules in place to enable automatic application of those labels.
@@ -292,7 +290,6 @@ Real-life implementation examples for Automatic labeling scenario:
 - MCAS monitors a Box cloud repository and sets all files that have credit card numbers or were uploaded by the finance department and are shared externally, to be automatically classified and labels as Confidential.
 
 ---
-
 ## Protect
 
 One of the main reasons for the implementation of a classification tool is to apply protection to sensitive data. The dictionary defines **protect** as the ability “to cover or shield from exposure, injury, [or] damage”. In the auspices of data protection, AIP enables you to apply protection automatically as part of the configuration of each label. This can be in the form of metadata and visual markings that allow DLP and other systems to restrict the exposure of that data, or metadata and markings plus actual encryption provided by the Azure Rights Management Service (Azure RMS) capabilities of AIP.  This encryption can prevent unauthorized access to data that could cause injury or damage to the organization.
@@ -393,6 +390,7 @@ If you wish to inspect audit raw data, export the result to Excel or [PowerBI](h
 
 :warning: Please keep in mind that this workspace should be secured appropriately as this becomes effectively a map to all your sensitive data.  Because of this, using a dedicated log analytics workspace is highly recommended.
 
+---
 ## Summary
 
 Information Protection projects are a journey that starts with a first step which everyone can start do today – Discovery.
@@ -416,6 +414,7 @@ After you begin receiving feedback that users are happy and getting used to this
 
 ![1547266280588](assets/1547266280588.png)
 
+---
 ## Best Practices Recap
 
 As mentioned in the Overview section, this document shares a set of best practices while connecting it to the recommended AIP deployment methodology we have seen working successfully.
@@ -479,6 +478,7 @@ For your convenience, this section will summarize the best practices reviewed on
 
 - A high number of calls to your help desk and confusion from information workers post training could indicate that you need to simplify your labeling design.
 
+---
 ## Appendix – Additional Resources
 
 This section contains links to the information found throughout this document and provides additional links to advanced or peripheral technologies that interact with AIP.
@@ -549,8 +549,7 @@ This section contains links to the information found throughout this document an
 
 https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-atp/information-protection-in-windows-overview
 
- 
-
+---
 ### Additional Information
 
 **Azure Information Protection Yammer community**
@@ -577,6 +576,7 @@ https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defe
 
 <https://www.vda.de/en/topics/safety-and-standards/information-security/information-security-requirements.html>
 
+---
 ## Classification & Labeling Taxonomy in Contoso 
 
 The document captures the classification & labeling taxonomy which has been adopted for Contoso. 

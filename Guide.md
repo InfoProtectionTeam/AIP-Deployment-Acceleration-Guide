@@ -36,6 +36,7 @@
 
   [Appendix – Additional Resources](#Appendix--Additional-Resources)
 
+---
 # Azure Information Protection - Deployment Acceleration Guide
 
 ## Overview

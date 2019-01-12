@@ -485,67 +485,67 @@ This section contains links to the information found throughout this document an
 
 ### Document Links
 
-Information Protection
+**Information Protection**
 
 <https://www.microsoft.com/en-us/security/technology/information-protection> 
 
-Azure Information Protection Requirements
+**Azure Information Protection Requirements**
 
 <https://docs.microsoft.com/en-us/azure/information-protection/requirements> 
 
-Microsoft 365 Roadmap Website
+**Microsoft 365 Roadmap Website**
 
 <https://www.microsoft.com/en-us/microsoft-365/roadmap> 
 
-How to migrate Azure Information Protection labels to the Office 365 Security & Compliance Center
+**How to migrate Azure Information Protection labels to the Office 365 Security & Compliance Center**
 
 <https://docs.microsoft.com/en-us/azure/information-protection/configure-policy-migrate-labels> 
 
-Sensitive Information Types used by AIP scanner discovery
+**Sensitive Information Types used by AIP scanner discovery**
 
 <https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for>
 
-Setting up the AIP scanner in Discovery mode
+**Setting up the AIP scanner in Discovery mode**
 
 <https://aka.ms/ScannerBlog> 
 
-MCAS integration with AIP
+**MCAS integration with AIP**
 
 <https://docs.microsoft.com/en-us/cloud-app-security/azip-integration>
 
-MCAS Automatically apply Azure Information Protection classification labels
+**MCAS Automatically apply Azure Information Protection classification labels**
 
 <https://docs.microsoft.com/en-us/cloud-app-security/use-case-information-protection>
 
-Office 365 DLP Policies
+**Office 365 DLP Policies**
 
 <https://docs.microsoft.com/en-us/office365/securitycompliance/data-loss-prevention-policies> 
 
-Configuring labels for a custom classification taxonomy
+**Configuring labels for a custom classification taxonomy**
 
 <https://docs.microsoft.com/en-us/azure/information-protection/configure-policy-new-label>
 
-MSIT Showcase video (how Microsoft developed our taxonomy)
+**MSIT Showcase video (how Microsoft developed our taxonomy)**
 
 <https://aka.ms/AIPShowcase>
 
-Defining a default classification level / Setting requirement for downgrade justification
+**Defining a default classification level / Setting requirement for downgrade justification**
 
 <https://docs.microsoft.com/en-us/azure/information-protection/configure-policy-settings>
 
-Configuring conditions for recommended and automatic labeling
+**Configuring conditions for recommended and automatic labeling**
 
 <https://docs.microsoft.com/en-us/azure/information-protection/configure-policy-classification>
 
-Configuring scoped policies
+**Configuring scoped policies**
 
 <https://docs.microsoft.com/en-us/azure/information-protection/configure-policy-scope>
 
-Integrating Azure Monitor with SEIM tools
+**Integrating Azure Monitor with SEIM tools**
 
 <https://azure.microsoft.com/en-us/blog/use-azure-monitor-to-integrate-with-siem-tools/>
 
-Windows Defender ATP and AIP integration
+**Windows Defender ATP and AIP integration**
 
 https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-atp/information-protection-in-windows-overview
 
@@ -553,29 +553,27 @@ https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defe
 
 ### Additional Information
 
- 
-
-Azure Information Protection Yammer community
+**Azure Information Protection Yammer community**
 
 <https://aka.ms/AIPyammer> 
 
-Microsoft Information Protection Overview
+**Microsoft Information Protection Overview**
 
 <https://www.microsoft.com/en-us/security/technology/information-protection>
 
-Microsoft Information Protection SDK Overview
+**Microsoft Information Protection SDK Overview**
 
 <https://docs.microsoft.com/en-us/information-protection/develop/overview>
 
-Azure Information Protection Documentation
+**Azure Information Protection Documentation**
 
 <https://docs.microsoft.com/en-us/azure/information-protection/what-is-information-protection> 
 
-Azure Information Protection Blog
+**Azure Information Protection Blog**
 
 <https://aka.ms/AIPBlog>
 
-German Automotive Association (VDA) example classification taxonomy whitepaper 
+**German Automotive Association (VDA) example classification taxonomy whitepaper** 
 
 <https://www.vda.de/en/topics/safety-and-standards/information-security/information-security-requirements.html>
 

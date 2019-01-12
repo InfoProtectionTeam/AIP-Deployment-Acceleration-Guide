@@ -36,7 +36,7 @@
 
   [Appendix – Additional Resources](#Appendix--Additional-Resources)
 
-  [Classification & Labeling Taxonomy in Contoso](#Classification-&-Labeling-Taxonomy-in-Contoso)
+  [Classification & Labeling Taxonomy in Contoso](#Classification--Labeling-Taxonomy-in-Contoso)
 
 # Azure Information Protection - Deployment Acceleration Guide
 

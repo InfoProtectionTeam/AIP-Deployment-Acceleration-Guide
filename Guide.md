@@ -241,7 +241,7 @@ Working with different companies and industries has shown us that most organizat
 
 It’s important to remember that the taxonomy should reflect the **confidentiality** of the information. In our experience, these confidentiality levels tend to be very similar across different industries.
 
-![1547265559536](assets/1547265559536.png)
+![1547270076222](assets/1547270076222.png)
 
 Labeling is the ability to add persistent metadata to information. This allows organizations to identify and take conscious actions based on this metadata.
 

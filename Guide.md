@@ -14,7 +14,7 @@
 > The names of actual companies and products mentioned herein may be the trademarks of their respective owners.
 
 ---
-[Azure  Information Protection – Deployment Acceleration Guide](#azure-information-protection---deployment-acceleration-guide)
+[Azure Information Protection – Deployment Acceleration Guide](#azure-information-protection---deployment-acceleration-guide)
 
  [Overview](#Overview)
 
@@ -46,7 +46,7 @@
 
  [Best Practices Recap](#Best-Practices-Recap)
 
- [Appendix – Additional Resources](#Appendix--Additional Resources)
+ [Appendix – Additional Resources](#Appendix--Additional-Resources)
 
   [Document Links](#Document-Links)
 

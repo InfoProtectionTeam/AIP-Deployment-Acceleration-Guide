@@ -16,49 +16,49 @@
 ---
 [Azure Information Protection – Deployment Acceleration Guide](#azure-information-protection---deployment-acceleration-guide)
 
- [Overview](#Overview)
+  [Overview](#Overview)
 
- [The Microsoft Information Protection Story](#The-Microsoft-Information-Protection-Story)
+  [The Microsoft Information Protection Story](#The-Microsoft-Information-Protection-Story)
 
-  [Microsoft Information Protection SDK](#Microsoft-Information-Protection-SDK)
+   [Microsoft Information Protection SDK](#Microsoft-Information-Protection-SDK)
 
-  [Microsoft 365 Information Protection Roadmap](#Microsoft-365-Information-Protection-Roadmap)
+   [Microsoft 365 Information Protection Roadmap](#Microsoft-365-Information-Protection-Roadmap)
 
- [Getting Started](#Getting-Started)
+  [Getting Started](#Getting-Started)
 
-  [General Requirements](#General-Requirements)
+   [General Requirements](#General-Requirements)
 
-  [Project Planning](#Project-Planning)
+   [Project Planning](#Project-Planning)
 
- [Discover](#Discover)
+  [Discover](#Discover)
 
-  [Azure Information Protection Scanner](#Azure-Information-Protection-Scanner)
+   [Azure Information Protection Scanner](#Azure-Information-Protection-Scanner)
 
-  [Microsoft Cloud Application Security & Office 365 DLP](#Microsoft-Cloud-Application-Security--Office-365-DLP)
+   [Microsoft Cloud Application Security & Office 365 DLP](#Microsoft-Cloud-Application-Security--Office-365-DLP)
 
- [Classify & Label](#Classify--Label)
+  [Classify & Label](#Classify--Label)
 
- [Protect](#Protect)
+  [Protect](#Protect)
 
- [Monitor](#Monitor)
+  [Monitor](#Monitor)
 
- [Summary](#Summary)
+  [Summary](#Summary)
 
- [Best Practices Recap](#Best-Practices-Recap)
+  [Best Practices Recap](#Best-Practices-Recap)
 
- [Appendix – Additional Resources](#Appendix--Additional-Resources)
+  [Appendix – Additional Resources](#Appendix--Additional-Resources)
 
-  [Document Links](#Document-Links)
+   [Document Links](#Document-Links)
 
-  [Additional Information](#Additional-Information)
+   [Additional Information](#Additional-Information)
 
- [Classification & Labeling Taxonomy in Contoso](#Classification-&-Labeling-Taxonomy-in-Contoso)
+  [Classification & Labeling Taxonomy in Contoso](#Classification-&-Labeling-Taxonomy-in-Contoso)
 
-  [Impact of each label & scope](#Impact-of-each-label-&-scope)
+   [Impact of each label & scope](#Impact-of-each-label-&-scope)
 
-  [Use cases for each label](#Use-cases-for-each-label)
+   [Use cases for each label](#Use-cases-for-each-label)
 
-  [Contoso Classification Examples](#Contoso-Classification-Examples)
+   [Contoso Classification Examples](#Contoso-Classification-Examples)
 
 
 # Azure Information Protection - Deployment Acceleration Guide

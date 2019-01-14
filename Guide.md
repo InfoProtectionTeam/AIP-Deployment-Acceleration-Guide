@@ -28,7 +28,7 @@
 
 ## Overview
 
-Azure Information Protection (AIP) is a cloud-based solution that can help organizations to protect sensitive information by classifying and (optionally) encrypting documents and emails on Windows, Mac, and Mobile devices. This is done using an organization defined classification taxonomy made up of labels and sub-labels.  These labels may be applied manually by users, or automatically by administrators via defined rules and conditions.  Additionally, recommendations may be provided to guide users in making appropriate labeling decisions.
+[Azure Information Protection](https://www.microsoft.com/en-us/security/technology/information-protection) (AIP) is a cloud-based solution that can help organizations to protect sensitive information by classifying and (optionally) encrypting documents and emails on Windows, Mac, and Mobile devices. This is done using an organization defined classification taxonomy made up of labels and sub-labels.  These labels may be applied manually by users, or automatically by administrators via defined rules and conditions.  Additionally, recommendations may be provided to guide users in making appropriate labeling decisions.
 
 The Azure Information Protection Get to Production (GTP) team is part of the Azure Security Engineering Division at Microsoft. Our team in comprised of subject matter experts who work closely with select customers (usually based on size and/or complexity) to help them realize the value of their investment by providing guidance for **successful** **and** **rapid deployments**. 
 

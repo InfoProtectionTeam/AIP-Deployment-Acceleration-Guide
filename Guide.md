@@ -638,7 +638,7 @@ The section calls out some common use cases for using the different labels & sub
 1. Marketing campaign development for a new product through an external ad firm 
 1. A mail from Contoso 's SLT on new compliance guidance 
 
-**Highly Confidential -**To be used on very sensitive business data which would certainly cause business harm if over-shared. Recipients (see table above) do NOT get delegation rights (or rights to modify or remove the Encryption). Data is protected using AIP and owners can track and revoke content. Common examples include: 
+**Highly Confidential -** To be used on very sensitive business data which would certainly cause business harm if over-shared. Recipients (see table above) do NOT get delegation rights (or rights to modify or remove the Encryption). Data is protected using AIP and owners can track and revoke content. Common examples include: 
 
 1. Contact your HR with a sensitive concern 
 1. A mail from SLT on the upcoming quarterly performance and guidance 
@@ -693,8 +693,8 @@ Examples of data commonly classified as **Public** include but is not limited to
 
 Examples of data commonly classified as **Non-business** include but is not limited to:
 
-- Your      personal emails to family, friends and colleagues not related to Contoso      business activities (e.g. lunch invitation)
-- Flyer      sharing children’s summer camp information (not a Contoso sponsored      event)  
+- Your personal emails to family, friends and colleagues not related to Contoso business activities (e.g. lunch invitation)
+- Flyer sharing children’s summer camp information (not a Contoso sponsored event)  
 
 Individual non-Contoso data, such as your tax filing
 
